@@ -1,5 +1,5 @@
 # hello-world
-rt
+rt  
 maybe there should be a test...
 # first
 ## second
@@ -38,9 +38,9 @@ another line
 
 anonother line
 
-**cu**
-*xie*
-~~delete~~
+**cu**  
+*xie*  
+~~delete~~  
 
 | 一个普通标题 | 一个普通标题 | 一个普通标题 |
 | ------ | ------ | ------ |
